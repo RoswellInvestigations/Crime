@@ -24,8 +24,9 @@ From finding lost adventure groups and guiding them back the way they came, to d
 | Grey area | x | 3 actions | Unlimited |
 | Success | x | x | Guaranteed success |
 
-\*All plans excluding tax, others fees and expenses
-
+\*All plans excluding tax, others fees and expenses\ 
+\ 
+\ 
 
 #### Reviews:
 Oracle69 said:
