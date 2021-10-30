@@ -29,3 +29,8 @@ From finding lost adventure groups and guiding them back the way they came, to d
 
 *All plans excluding tax, others fees and expenses
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
