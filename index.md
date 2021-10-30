@@ -25,3 +25,12 @@ From finding lost adventure groups and guiding them back the way they came, to d
 | Success | x | x | Guaranteed success |
 
 *All plans excluding tax, others fees and expenses
+
+#### Reviews:
+Oracle69 said:
+> Wow! I bought the platinum package and Roswell solved
+> my case in just a few minutes! "Gleicher Weg zurück",
+> i would never been able to come up with this.
+
+Dwarfthrower1337 said:
+> I love this dude! :star: :star: :star: :star: :star:
