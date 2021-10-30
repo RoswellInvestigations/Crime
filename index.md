@@ -25,10 +25,8 @@ From finding lost adventure groups and guiding them back the way they came, to d
 | Success | x | x | Guaranteed success |
 
 \*All plans excluding tax, others fees and expenses
-
-
-
-
+<br>
+<br>
 #### Reviews:
 Oracle69 said:
 > Wow! I bought the platinum package and Roswell solved
