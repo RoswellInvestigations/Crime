@@ -16,7 +16,7 @@ From finding lost adventure groups and guiding them back the way they came, to d
 :heavy_check_mark: Barkeepers
 :heavy_check_mark: Authories
 :heavy_check_mark: You
-:white_check_mark: High Insight Rolls
+:negative_squared_cross_mark: High Insight Rolls
 
 #### Payment plans*
 |  | Gold Package | Electrum Package | Platinum Package |
