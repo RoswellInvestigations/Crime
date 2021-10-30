@@ -12,11 +12,11 @@ I will listen, review and discuss each of your issues, then make a proposal to d
 From finding lost adventure groups and guiding them back the way they came, to defending a knight in court for impailing a human. I've already seen it all, not even your case can ruffle me.
 
 #### Trusted by
-:heavy_check_mark: Guards
-:heavy_check_mark: Barkeepers
-:heavy_check_mark: Authories
-:heavy_check_mark: You
-:negative_squared_cross_mark: High Insight Rolls
+- :heavy_check_mark: Guards
+- :heavy_check_mark: Barkeepers
+- :heavy_check_mark: Authories
+- :heavy_check_mark: You
+- :negative_squared_cross_mark: High Insight Rolls
 
 #### Payment plans*
 |  | Gold Package | Electrum Package | Platinum Package |
