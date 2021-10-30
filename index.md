@@ -12,8 +12,8 @@ I will listen, review and discuss each of your issues, then make a proposal to d
 From finding lost adventure groups and guiding them back the way they came, to defending a knight in court for impailing a human. I've already seen it all, not even your case can ruffle me.
 
 #### Trusted by
-- [x] Guards
-- [x] Barkeepers
+- [\*] Guards
+- [\*] Barkeepers
 - [x] Authories
 - [x] You
 - [ ] High Insight Rolls
