@@ -1,6 +1,3 @@
----
-Let's solve this case
----
 ## I'm on the case. Private Investigator & Detective
 
 I‘m such a good detective, you don‘t have to find me – i find you!
