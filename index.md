@@ -14,9 +14,13 @@ From finding lost adventure groups and guiding them back the way they came, to d
 
 ### Trusted by
 :heavy_check_mark: Guards
+<br>
 :heavy_check_mark: Barkeepers
+<br>
 :heavy_check_mark: Authories
+<br>
 :heavy_check_mark: You
+<br>
 :white_check_mark: High Insight Rolls
 
 ### Payment plans*
