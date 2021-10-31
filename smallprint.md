@@ -1,5 +1,1 @@
-Normal text
-
-<sub><sup>Small text</sup></sub>
-
-<sub><sup><sub><sup>Tiny text</sup></sub></sup></sub>
+Anything being an acronym here obviously; All Nicknacks You Try to Hide, I Never Give u back
