@@ -4,3 +4,5 @@ title: Roswell Investigation & Co.KG
 description: If you read this, i have already found you!
 plugins:
   - jemoji
+  - jekyll-feed
+  - jekyll-seo-tag
